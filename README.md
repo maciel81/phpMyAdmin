@@ -19,3 +19,4 @@ Features
   * Searching globally in a database or a subset of it
   * Transforming stored data into any format using a set of predefined functions, like displaying BLOB-data as image or download-link
   * And much more...
+  
