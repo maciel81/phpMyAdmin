@@ -2,7 +2,7 @@
 //-- Blowfish Secret
 $cfg['blowfish_secret'] = md5('Fundação DER-RJ');
 //-- Default Language & Theme
-$cfg['DefaultLang']  = 'pt_BR';
+$cfg['DefaultLang']  = 'pt_br';
 $cfg['ThemeDefault'] = 'metro';
 //-- MySQL Hosts
 $i=0;
