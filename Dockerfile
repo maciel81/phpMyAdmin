@@ -15,7 +15,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 ## Download phpMyAdmin URL
 COPY etc /etc/
-ENV PMA_VERSION 4.8.1
+ENV PMA_VERSION 4.8.2
 ADD https://files.phpmyadmin.net/phpMyAdmin/${PMA_VERSION}/phpMyAdmin-${PMA_VERSION}-all-languages.tar.gz /tmp/pma.tar.gz
 
 ## Decompress phpMyAdmin
